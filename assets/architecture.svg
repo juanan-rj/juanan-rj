@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Agent stack: coding agents, RSC Harness, RSC Brain, memory">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#58a6ff"/></marker>
+  </defs>
+  <rect width="1000" height="340" rx="14" fill="#0d1117"/>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif" text-anchor="middle">
+    <text x="500" y="38" font-size="18" font-weight="700" fill="#c9d1d9">How my agent stack fits together</text>
+    <g stroke="#58a6ff" stroke-width="2" fill="none" marker-end="url(#a)" stroke-dasharray="6 5">
+      <path d="M215 170 H325"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></path>
+      <path d="M475 170 H585"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></path>
+      <path d="M735 170 H845"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.2s" repeatCount="indefinite"/></path>
+    </g>
+    <g stroke-width="2" fill="#161b22">
+      <rect x="50" y="120" width="165" height="100" rx="12" stroke="#30363d"/>
+      <rect x="325" y="120" width="150" height="100" rx="12" stroke="#58a6ff"/>
+      <rect x="585" y="120" width="150" height="100" rx="12" stroke="#a371f7"/>
+      <rect x="845" y="120" width="110" height="100" rx="12" stroke="#3fb950"/>
+    </g>
+    <g fill="#c9d1d9" font-size="16" font-weight="700">
+      <text x="132" y="165">Coding agents</text><text x="400" y="165">RSC Harness</text><text x="660" y="165">RSC Brain</text><text x="900" y="165">Memory</text>
+    </g>
+    <g fill="#8b949e" font-size="12">
+      <text x="132" y="188">Claude Code · Gemini</text><text x="400" y="188">hooks &amp; guards</text><text x="660" y="188">MCP · OAuth · tokens</text><text x="900" y="188">SQLite FTS5</text>
+    </g>
+    <text x="500" y="290" font-size="13" fill="#8b949e">Agents run under guardrails, read and write persistent memory over MCP, and keep context between sessions.</text>
+  </g>
+</svg>

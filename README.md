@@ -1,28 +1,46 @@
-# Hi, I'm Juanan 👋
+<p align="center"><img src="assets/banner.svg" alt="Juanan banner" width="100%"/></p>
 
-Engineer building **AI agent systems**, **infrastructure monitoring**, and a **self-hosted homelab**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-a371f7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-58a6ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Homelab-3fb950?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=juanan-rj&style=for-the-badge&color=30363d&label=PROFILE+VIEWS"/>
+</p>
 
-## 🧠 AI agents
+## 👋 About me
 
-- **[RSC Brain](https://github.com/juanan-rj/rsc-brain)**: an MCP server that gives agents persistent memory and pinned invariants, backed by SQLite FTS5, with per-workspace tokens and OAuth.
-- **RSC Harness**: hooks and guards for coding agents (branch and command safety, session memory). Coming soon.
-- Working on a platform for **agent workflows with self-learning and agent management**.
-- Interested in making agent work visible: a "factory view" to watch agents run, step by step.
+I build **agent systems you can trust**, **monitoring that tells the truth**, and a **homelab that runs my life**.
+I like tools that are small, tested, and boring to operate.
 
-## 📊 Monitoring & infrastructure
+- 🧠 Building agent workflows with persistent memory and guardrails
+- 📊 Infrastructure dashboards and alerting
+- 🏠 Running a self-hosted lab with proper backups and runbooks
+- 🎮 Making small games in Godot on the side
 
-- Dashboards for infrastructure monitoring with **Grafana**, **Checkmk**, and **Elasticsearch**.
-- Automation with **n8n** and webhook-based alerting.
+## 🚀 Featured projects
 
-## 🏠 Homelab
+| Project | What it does | Stack |
+|---|---|---|
+| [**RSC Brain**](https://github.com/juanan-rj/rsc-brain) | MCP server giving agents persistent memory and pinned invariants, with OAuth and per-workspace tokens | `Python` `SQLite FTS5` `OAuth 2.1` |
+| **RSC Harness** *(coming soon)* | Hooks and guards for coding agents: branch and command safety, session memory | `Node.js` `Hooks` |
+| [**VideojuegoGodot**](https://github.com/juanan-rj/VideojuegoGodot) | A game built with Godot | `Godot` `GDScript` |
 
-- Self-hosted services with **Docker Compose**, reverse proxy via **Cloudflare Tunnel**, and backups with **rclone**.
-- Documented setup and runbooks for updates, incidents, and restores.
+## 🧩 How the agent stack fits together
 
-## 🎮 Game dev
+<p align="center"><img src="assets/architecture.svg" alt="Agent stack architecture" width="100%"/></p>
 
-- Games built with **Godot**: [VideojuegoGodot](https://github.com/juanan-rj/VideojuegoGodot).
+## 🛠 Tech stack
 
-## 🛠 Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,docker,linux,git,sqlite,grafana,elasticsearch,godot,bash,cloudflare&perline=12"/>
+</p>
 
-`Python` · `TypeScript` · `Docker` · `Grafana` · `Elasticsearch` · `SQLite` · `Godot` · `Linux` · `Claude Code`
+## 📈 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanan-rj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanan-rj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/></p>
