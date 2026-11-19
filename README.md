@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=juanan-rj&style=for-the-badge&color=30363d&label=PROFILE+VIEWS"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/juanan-rj?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+agents+you+can+trust;Monitoring+that+tells+the+truth;A+homelab+that+runs+my+life" alt="Typing animation"/></a>
+</p>
+
 ## 👋 About me
 
 I build **agent systems you can trust**, **monitoring that tells the truth**, and a **homelab that runs my life**.
@@ -23,12 +27,16 @@ I like tools that are small, tested, and boring to operate.
 | Project | What it does | Stack |
 |---|---|---|
 | [**RSC Brain**](https://github.com/juanan-rj/rsc-brain) | MCP server giving agents persistent memory and pinned invariants, with OAuth and per-workspace tokens | `Python` `SQLite FTS5` `OAuth 2.1` |
-| **RSC Harness** *(coming soon)* | Hooks and guards for coding agents: branch and command safety, session memory | `Node.js` `Hooks` |
+| [**RSC Harness**](https://github.com/juanan-rj/rsc-harness) | My modified fork of Eric Risco's [rsc-harness](https://github.com/ericrisco/rsc-harness) (MIT): guardrail hooks for coding agents, covering branch and command safety, review gates and session memory | `Node.js` `Hooks` |
 | [**VideojuegoGodot**](https://github.com/juanan-rj/VideojuegoGodot) | A game built with Godot | `Godot` `GDScript` |
 
 ## 🧩 How the agent stack fits together
 
 <p align="center"><img src="assets/architecture.svg" alt="Agent stack architecture" width="100%"/></p>
+
+## 🤝 Open source credits
+
+- [**ericrisco/rsc-harness**](https://github.com/ericrisco/rsc-harness) by Eric Risco (MIT): the base of my RSC Harness fork.
 
 ## 🛠 Tech stack
 
