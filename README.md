@@ -27,6 +27,7 @@ I like tools that are small, tested, and boring to operate.
 | Project | What it does | Stack |
 |---|---|---|
 | [**RSC Brain**](https://github.com/juanan-rj/rsc-brain) | MCP server giving agents persistent memory and pinned invariants, with OAuth and per-workspace tokens | `Python` `SQLite FTS5` `OAuth 2.1` |
+| [**Homelab**](https://github.com/juanan-rj/homelab) | Sanitized Docker Compose stacks for a 30+ service home server: media, photos, monitoring, local AI | `Docker` `Caddy` `Cloudflare Tunnel` |
 | [**RSC Harness**](https://github.com/juanan-rj/rsc-harness) | My modified fork of Eric Risco's [rsc-harness](https://github.com/ericrisco/rsc-harness) (MIT): guardrail hooks for coding agents, covering branch and command safety, review gates and session memory | `Node.js` `Hooks` |
 | [**VideojuegoGodot**](https://github.com/juanan-rj/VideojuegoGodot) | A game built with Godot | `Godot` `GDScript` |
 
@@ -37,6 +38,7 @@ I like tools that are small, tested, and boring to operate.
 ## 🤝 Open source credits
 
 - [**ericrisco/rsc-harness**](https://github.com/ericrisco/rsc-harness) by Eric Risco (MIT): the base of my RSC Harness fork.
+- [**ericrisco/rsc-brain**](https://github.com/ericrisco/rsc-brain) by Eric Risco: the memory service that my RSC Brain MCP endpoint and my homelab stack build on.
 
 ## 🛠 Tech stack
 
