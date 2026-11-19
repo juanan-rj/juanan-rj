@@ -53,4 +53,13 @@ I like tools that are small, tested, and boring to operate.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanan-rj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </p>
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanan-rj/juanan-rj/output/snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/juanan-rj/juanan-rj/output/snake.svg"/>
+  </picture>
+</p>
+
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/></p>
